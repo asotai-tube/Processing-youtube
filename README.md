@@ -5,4 +5,4 @@ YouTubeページ(あそたい / プログラミングアート)：https://www.yo
 |動画名|URL|ソースコード|
 |---|---|---|
 |プログラミングで『星のカービィ』描いてみた！|https://www.youtube.com/shorts/SxUaRdFBup4|https://github.com/asotai-tube/Processing-youtube/tree/main/kirby|
-|プログラミングで『ぷよぷよ』描いてみた！|https://youtube.com/shorts/6eV0_XkgdVg|https://github.com/asotai-tube/Processing-youtube/tree/main/puyopuyo|
+|プログラミングで『ぷよぷよ』描いてみた！|https://www.youtube.com/shorts/6eV0_XkgdVg|https://github.com/asotai-tube/Processing-youtube/tree/main/puyopuyo|
